@@ -2,7 +2,7 @@ class calculator:
     x=5,y=3
     add(x,y):
     
-   fsdfsdf
+
     
 def add(x,y):
 	return(x+y):
